@@ -8,7 +8,8 @@
             <sparkle:version>202609301250</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>MacIPScanner 1.0.1</h2>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif}</style>
+<h2>MacIPScanner 1.0.1</h2>
 <ul>
   <li>แก้ปัญหาแอปแสดงซ้ำใน Launchpad / Open With</li>
   <li>ทดสอบระบบอัปเดตอัตโนมัติผ่าน GitHub Pages</li>
@@ -25,7 +26,8 @@
             <sparkle:version>202609301240</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>MacIPScanner 1.0.0</h2>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif}</style>
+<h2>MacIPScanner 1.0.0</h2>
 <ul>
   <li>LAN Scanner: ping sweep, MAC/ยี่ห้อ, hostname, พอร์ต, เปิดหน้า Admin</li>
   <li>Wi-Fi Analyzer: กราฟช่องสัญญาณ, RSSI ตามเวลา, ช่องแนะนำ</li>
