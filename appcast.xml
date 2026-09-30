@@ -3,6 +3,23 @@
     <channel>
         <title>MacIPScanner</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 30 Sep 2026 12:50:50 +0700</pubDate>
+            <sparkle:version>202609301250</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>MacIPScanner 1.0.1</h2>
+<ul>
+  <li>แก้ปัญหาแอปแสดงซ้ำใน Launchpad / Open With</li>
+  <li>ทดสอบระบบอัปเดตอัตโนมัติผ่าน GitHub Pages</li>
+</ul>
+]]></description>
+            <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner-1.0.1.dmg" length="3466686" type="application/octet-stream" sparkle:edSignature="yFjdpJkclEgwXqe/lybN4W07iOGJ9FB0wSGxNqzF7WQT2VMUNC1kRE9/kHQ0WFtqtbltHo2oIHdK1SKk8eTxDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301250-202609301240.delta" sparkle:deltaFrom="202609301240" length="1982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Y1JRjeHZs1p7o6rW7b0VnO8VZn1ntFfzPDOhAWwIwQ1vwav+qFSI7ArzCsOXu5dvbwYj4sNq6Dlj6Yz/awznAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Wed, 30 Sep 2026 12:41:05 +0700</pubDate>
             <sparkle:version>202609301240</sparkle:version>
