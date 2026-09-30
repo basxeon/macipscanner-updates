@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MacIPScanner</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 30 Sep 2026 12:41:05 +0700</pubDate>
+            <sparkle:version>202609301240</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>MacIPScanner 1.0.0</h2>
+<ul>
+  <li>LAN Scanner: ping sweep, MAC/ยี่ห้อ, hostname, พอร์ต, เปิดหน้า Admin</li>
+  <li>Wi-Fi Analyzer: กราฟช่องสัญญาณ, RSSI ตามเวลา, ช่องแนะนำ</li>
+  <li>Heatmap บนแปลนอาคาร</li>
+  <li>เครื่องมือช่าง: Ping, Traceroute, Rogue DHCP, ตรวจ IP ชน, Wake-on-LAN</li>
+  <li>โปรเจกต์และรายงาน PDF</li>
+</ul>
+]]></description>
+            <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner-1.0.0.dmg" length="3466684" type="application/octet-stream" sparkle:edSignature="8huHSyUNCfobtKucLCDo0kmkdi2xHi4bxjObFN3BTXKXK57P7QIDL9OzmcnoGjB7VGYXm022hzBp+xAlxBo2DQ=="/>
+        </item>
+    </channel>
+</rss>
