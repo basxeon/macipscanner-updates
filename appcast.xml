@@ -3,6 +3,27 @@
     <channel>
         <title>MacIPScanner</title>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Wed, 30 Sep 2026 13:49:21 +0700</pubDate>
+            <sparkle:version>202609301348</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif}</style>
+<h2>MacIPScanner 1.0.6</h2>
+<ul>
+  <li>Heatmap: บรรทัดสถานะอัปเดตเมื่อลบจุดวัด ลบจุดทั้งหมด หรือเปลี่ยนแปลน/โปรเจกต์ (ก่อนหน้านี้ค้างข้อความของจุดที่ลบไปแล้ว)</li>
+</ul>
+]]></description>
+            <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner-1.0.6.dmg" length="3490440" type="application/octet-stream" sparkle:edSignature="SuNh6tNUqElMbL62qemFcVqOCvxev1tQZNYhSsYKxpmO6+jCkN9DB5zrlZmOx7NFF/U1qEZ9q1R8awU3faeoDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301348-202609301339.delta" sparkle:deltaFrom="202609301339" length="137558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Eo9rAMvplzZ4FNNepUot8E43FNrdEdQNFEG3jQEWz3fDlZby90ikGO0xNHUbuDDK+hmMd0QuxYuG1suVzM5uBQ=="/>
+                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301348-202609301333.delta" sparkle:deltaFrom="202609301333" length="275338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JQTLHnHr2E7JzdJNsovmX1+BE0QaklGVfzDIGr4d/7zlNZDVQHiesQ9sbKss+PShbMZ26PqTQZyBnbOvhBheCg=="/>
+                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301348-202609301322.delta" sparkle:deltaFrom="202609301322" length="320498" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H637S3vhA8ASPkuLHg4+QHns95//0gbqc1XpNPMh+QOrX3MjIPNEd1c7/OFzKtfrEHm4cEY0tLex71mASkhhBA=="/>
+                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301348-202609301305.delta" sparkle:deltaFrom="202609301305" length="378434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HSgCQLvvJVFtg0nN0+Ep4/XR0jI/B29Lp4YKj1E7hJxRbXr/+u5EKOkSvOrICfOiEpXRG+WA28rg21PvAf3CCg=="/>
+                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301348-202609301250.delta" sparkle:deltaFrom="202609301250" length="381262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YWSqdPUf+ajy15UVKIl1X7SOrrOJfvxTRhaJybZUqzlUebDjk+O9/4AAv+NGEQ9gGAyaJykoFXe8Gk6N0GMKAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Wed, 30 Sep 2026 13:40:32 +0700</pubDate>
             <sparkle:version>202609301339</sparkle:version>
@@ -40,27 +61,6 @@
                 <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301333-202609301322.delta" sparkle:deltaFrom="202609301322" length="249558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="frk83XixEIOUhr6QFq9EJZ+KsA3ARVdRvsI5krd6F9HC6UxE9IUZX55k2N+97R54YuqClWcSww70KXehPRthAg=="/>
                 <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301333-202609301250.delta" sparkle:deltaFrom="202609301250" length="351962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pAL7Il+WKpJx2fInGUEn1/ZofKxwIiUrZsDECdHAnunUNH5jFnfrg9eSS2atFGzQZBaZd/+n4gtbnUv7oFT1AQ=="/>
                 <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301333-202609301240.delta" sparkle:deltaFrom="202609301240" length="354366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iCeHI9PhzkQq21jwC+OhKFdE6jVBSzCTCOIfQmsIUxYjZUsQvkeyOoUvHL2rjEo63UU85s5VhvAFW8NGCk96Cw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Wed, 30 Sep 2026 13:23:02 +0700</pubDate>
-            <sparkle:version>202609301322</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif}</style>
-<h2>MacIPScanner 1.0.3</h2>
-<ul>
-  <li>Heatmap: แก้ปัญหาโปรแกรมปิดตัวเองเมื่อคลิกบนแปลนหรือเลือกจุดวัด</li>
-  <li>หน้าโปรเจกต์: ปรับ layout ให้เสถียรขึ้น</li>
-  <li>บันทึก crash log ไว้ที่ ~/Library/Logs/MacIPScanner เพื่อช่วยแก้ปัญหา</li>
-</ul>
-]]></description>
-            <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner-1.0.3.dmg" length="3481565" type="application/octet-stream" sparkle:edSignature="CuXwnv8UAqDhExAcmBGsNKdQzq8if/02kDbwb/9YxgXwUi/IN0Lws2qkzcaUQdiswJpEDjvqfkYa1EgAeTXJBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301322-202609301305.delta" sparkle:deltaFrom="202609301305" length="321462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WVNzVlD/GqNx7m9KKlg+NYllSdyFNeT71jhGY85iABRRIkFHFlk3HDOAvdTzrSNBKOgDUc+nLYKTbIemobBWAw=="/>
-                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301322-202609301250.delta" sparkle:deltaFrom="202609301250" length="320018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Hpu7OwEGr9SJBCFlJdRUqpvZROniSlmClr/iFq0g+C+YuWXFVWbwrRYXNY3ek5sXTsV+Hv6aQwEQR+3GzO+fBw=="/>
-                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301322-202609301240.delta" sparkle:deltaFrom="202609301240" length="319310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1KP7Zgpm6WnPMjEUv9X0D4NokvqTYWF9t5CY0mXmMW5p2mffHql2+lgLr64KXYR+f3jiYGUblN6LAj1wrz4UCw=="/>
             </sparkle:deltas>
         </item>
     </channel>
