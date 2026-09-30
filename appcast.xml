@@ -3,6 +3,24 @@
     <channel>
         <title>MacIPScanner</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Wed, 30 Sep 2026 13:06:20 +0700</pubDate>
+            <sparkle:version>202609301305</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif}</style>
+<h2>MacIPScanner 1.0.2</h2>
+<ul>
+  <li>LAN Scanner: แสดง MAC และยี่ห้อของอุปกรณ์ที่ตอบ ping ช้าได้ครบ (ก่อนหน้านี้บางเครื่องช่อง MAC ว่าง)</li>
+</ul>
+]]></description>
+            <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner-1.0.2.dmg" length="3466776" type="application/octet-stream" sparkle:edSignature="GQTF3zBCSYsFWJtQa9Ey0zpywZDXGs4murdcopMeYQjFBRttBsiEWiqEEemMhuOo1fFQMvgcN6lkww2x8NjXAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301305-202609301250.delta" sparkle:deltaFrom="202609301250" length="76686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Jzv2yUcqaKunqU0rzi+Hl7zLIWQzatZ4QvXHOkDwGK/hHNGeLpStoBMkFPqhYfS1H1u0kVC++3tNy/7UtYWdCA=="/>
+                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301305-202609301240.delta" sparkle:deltaFrom="202609301240" length="76702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zipDneRM8LWfJFnRzCqdTr8BR3D4MZBitB/nnojCBOuvNoFBiZwnwoj2Xcl5nz+g5mftql5ym5MHnOX+QUUcBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Wed, 30 Sep 2026 12:50:50 +0700</pubDate>
             <sparkle:version>202609301250</sparkle:version>
