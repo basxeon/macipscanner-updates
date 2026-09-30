@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="th"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MacIPScanner Updates</title>
+<style>body{font:16px -apple-system,sans-serif;max-width:640px;margin:48px auto;padding:0 16px;color:#222}a{color:#0a64a4}</style></head>
+<body><h1>MacIPScanner</h1>
+<p>ช่องทางอัปเดตอัตโนมัติ (Sparkle) ของ MacIPScanner – แอปจะตรวจไฟล์ <a href="appcast.xml">appcast.xml</a> เอง</p>
+<p id="latest"></p>
+<script>
+fetch('appcast.xml').then(r=>r.text()).then(t=>{const d=new DOMParser().parseFromString(t,'text/xml');const i=d.querySelector('item');if(!i)return;
+const v=i.getElementsByTagName('sparkle:shortVersionString')[0]?.textContent;const u=i.querySelector('enclosure')?.getAttribute('url');
+document.getElementById('latest').innerHTML='เวอร์ชันล่าสุด: <b>'+v+'</b> – <a href="'+u+'">ดาวน์โหลด DMG</a>';}).catch(()=>{});
+</script></body></html>
