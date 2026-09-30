@@ -3,6 +3,27 @@
     <channel>
         <title>MacIPScanner</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Wed, 30 Sep 2026 13:23:02 +0700</pubDate>
+            <sparkle:version>202609301322</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif}</style>
+<h2>MacIPScanner 1.0.3</h2>
+<ul>
+  <li>Heatmap: แก้ปัญหาโปรแกรมปิดตัวเองเมื่อคลิกบนแปลนหรือเลือกจุดวัด</li>
+  <li>หน้าโปรเจกต์: ปรับ layout ให้เสถียรขึ้น</li>
+  <li>บันทึก crash log ไว้ที่ ~/Library/Logs/MacIPScanner เพื่อช่วยแก้ปัญหา</li>
+</ul>
+]]></description>
+            <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner-1.0.3.dmg" length="3481565" type="application/octet-stream" sparkle:edSignature="CuXwnv8UAqDhExAcmBGsNKdQzq8if/02kDbwb/9YxgXwUi/IN0Lws2qkzcaUQdiswJpEDjvqfkYa1EgAeTXJBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301322-202609301305.delta" sparkle:deltaFrom="202609301305" length="321462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WVNzVlD/GqNx7m9KKlg+NYllSdyFNeT71jhGY85iABRRIkFHFlk3HDOAvdTzrSNBKOgDUc+nLYKTbIemobBWAw=="/>
+                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301322-202609301250.delta" sparkle:deltaFrom="202609301250" length="320018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Hpu7OwEGr9SJBCFlJdRUqpvZROniSlmClr/iFq0g+C+YuWXFVWbwrRYXNY3ek5sXTsV+Hv6aQwEQR+3GzO+fBw=="/>
+                <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301322-202609301240.delta" sparkle:deltaFrom="202609301240" length="319310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1KP7Zgpm6WnPMjEUv9X0D4NokvqTYWF9t5CY0mXmMW5p2mffHql2+lgLr64KXYR+f3jiYGUblN6LAj1wrz4UCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Wed, 30 Sep 2026 13:06:20 +0700</pubDate>
             <sparkle:version>202609301305</sparkle:version>
@@ -37,24 +58,6 @@
             <sparkle:deltas>
                 <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner202609301250-202609301240.delta" sparkle:deltaFrom="202609301240" length="1982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Y1JRjeHZs1p7o6rW7b0VnO8VZn1ntFfzPDOhAWwIwQ1vwav+qFSI7ArzCsOXu5dvbwYj4sNq6Dlj6Yz/awznAQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Wed, 30 Sep 2026 12:41:05 +0700</pubDate>
-            <sparkle:version>202609301240</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif}</style>
-<h2>MacIPScanner 1.0.0</h2>
-<ul>
-  <li>LAN Scanner: ping sweep, MAC/ยี่ห้อ, hostname, พอร์ต, เปิดหน้า Admin</li>
-  <li>Wi-Fi Analyzer: กราฟช่องสัญญาณ, RSSI ตามเวลา, ช่องแนะนำ</li>
-  <li>Heatmap บนแปลนอาคาร</li>
-  <li>เครื่องมือช่าง: Ping, Traceroute, Rogue DHCP, ตรวจ IP ชน, Wake-on-LAN</li>
-  <li>โปรเจกต์และรายงาน PDF</li>
-</ul>
-]]></description>
-            <enclosure url="https://basxeon.github.io/macipscanner-updates/MacIPScanner-1.0.0.dmg" length="3466684" type="application/octet-stream" sparkle:edSignature="8huHSyUNCfobtKucLCDo0kmkdi2xHi4bxjObFN3BTXKXK57P7QIDL9OzmcnoGjB7VGYXm022hzBp+xAlxBo2DQ=="/>
         </item>
     </channel>
 </rss>
